@@ -38,7 +38,7 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            gozargah/marzban-node:latest
-            gozargah/marzban-node:${{github.ref_name}}
-            ghcr.io/gozargah/marzban-node:latest
-            ghcr.io/gozargah/marzban-node:${{github.ref_name}}
+            hebu001/marzban-node:latest
+            hebu001/marzban-node:${{github.ref_name}}
+            ghcr.io/hebu001/marzban-node:latest
+            ghcr.io/hebu001/marzban-node:${{github.ref_name}}
