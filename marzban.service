@@ -1,6 +1,6 @@
 [Unit]
 Description=Marzban Node Service
-Documentation=https://github.com/gozargah/Marzban-node
+Documentation=https://github.com/hebu001/Marzban-node
 After=network.target nss-lookup.target
 
 [Service]
